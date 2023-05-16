@@ -13,7 +13,7 @@ You can check the original repository <a href="https://github.com/florinpop17/ap
 
 | Name                                                                              | Short Description                                          | Tier       | Done       |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- | ---------- |
-| [Bin2Dec](Tier 1 Projects/Bin2Dec)                                   | Binary-to-Decimal number converter                         | 1-Beginner |✅|
+| [Bin2Dec](./Tier 1 Projects/Bin2Dec)                                   | Binary-to-Decimal number converter                         | 1-Beginner |✅|
 | [Border Radius Previewer](./Projects/1-Beginner/Border-Radius-Previewer.md)       | Preview how CSS3 border-radius values affect an element    | 1-Beginner |❌|
 | [Calculator](./Projects/1-Beginner/Calculator-App.md)                             | Calculator                                                 | 1-Beginner |❌|
 | [Christmas Lights](./Projects/1-Beginner/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                      | 1-Beginner |❌|
