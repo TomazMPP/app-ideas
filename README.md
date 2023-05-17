@@ -13,7 +13,7 @@ You can check the original repository <a href="https://github.com/florinpop17/ap
 
 | Name                                                                              | Short Description                                          | Tier       | Done       |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- | ---------- |
-| [Bin2Dec](./Tier1/Bin2Dec)                                   | Binary-to-Decimal number converter                         |  1 |✅|
+| [Bin2Dec](./Tier1/Bin2Dec/readme.md)                                   | Binary-to-Decimal number converter                         |  1 |✅|
 | [Border Radius Previewer](./Projects/1-Beginner/Border-Radius-Previewer.md)       | Preview how CSS3 border-radius values affect an element    | 1 |❌|
 | [Calculator](./Projects/1-Beginner/Calculator-App.md)                             | Calculator                                                 | 1 |❌|
 | [Christmas Lights](./Projects/1-Beginner/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                      | 1 |❌|
@@ -39,7 +39,7 @@ You can check the original repository <a href="https://github.com/florinpop17/ap
 | [Quiz App](./Projects/1-Beginner/Quiz-App.md)                                     | Test your knowledge by answering questions                 | 1 |❌|
 | [Recipe App](./Projects/1-Beginner/Recipe-App.md)                                 | Recipe                                                     | 1 |❌|
 | [Random Meal Generator](./Projects/1-Beginner/Random-Meal-Generator.md)           | Generate random meals                                      | 1 |❌|
-| [Random Number Generator](./Projects/1-Beginner/Random-Number-Generator.md)       | Generate random number between range.                      | 1 |❌|
+| [Random Number Generator](./Tier1/Random-Number-Generator/readme.md)       | Generate random number between range.                      | 1 |✅|
 | [Roman to Decimal Converter](./Projects/1-Beginner/Roman-to-Decimal-Converter.md) | Convert Roman to Decimal numbers                           | 1 |❌|
 | [Slider Design](./Projects/1-Beginner/Slider-Design.md)                           | Display images using a slider control                      | 1 |❌|
 | [Stopwatch App](./Projects/1-Beginner/Stopwatch-App.md)                           | Count time spent on activities                             | 1 |❌|
