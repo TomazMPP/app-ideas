@@ -1,3 +1,5 @@
+<strong>Project Link:</strong> https://app-ideas-gold.vercel.app/Tier1/Random-Number-Generator/index.html
+<br>
 ## User Stories
 
 -   [✅] User can define maximun and minimun values for the random number.
