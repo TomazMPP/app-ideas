@@ -1,5 +1,5 @@
-Project Link: https://app-ideas-gold.vercel.app/Tier1/Bin2Dec/index.html
-
+<strong>Project Link:</strong> https://app-ideas-gold.vercel.app/Tier1/Bin2Dec/index.html
+<br>
 ## User Stories
 
 -   [✅] User can enter up to 8 binary digits in one input field
