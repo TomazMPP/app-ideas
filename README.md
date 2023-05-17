@@ -4,7 +4,7 @@ My idea is to make them all and put them inside this repository, where each of t
 
 You can check the original repository <a href="https://github.com/florinpop17/app-ideas/blob/master/README.md">here.</a>
 
-🌟 - Done<br>
+✅ - Done<br>
 ❌ - Not done
 
 🧠 You can check each of the done projects by clicking on their name 🧠
