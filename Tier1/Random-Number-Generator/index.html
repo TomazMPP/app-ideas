@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Number Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Random Number Generator</h1>
+    <section class="container">
+        <p id="sub">Choose the range of the numbers and the amount of numbers to be generated</p>
+        
+        <div class="input-group">
+            <p id="rng">Range 1:</p>   
+            <input type="number" name="" id="range1">
+        </div>
+        
+        <div class="input-group">
+            <p id="rng">Range 2:</p>   
+            <input type="number" name="" id="range2">
+        </div>
+        
+        <div class="input-group">
+            <p id="amt">Amount:</p>
+            <div class="amount-container">
+                <select name="" id="amount">
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5</option>
+                    <option>6</option>
+                </select>
+            </div>
+            
+            <div class="input-group">
+                <p id="type">Tipo:</p>
+                <select id="numberType" class="number-type-select">
+                  <option value="integer">Inteiro</option>
+                  <option value="negative">Negativo</option>
+                  <option value="decimal">Decimal</option>
+                </select>
+              </div>
+              
+              
+            <div class="button-container">
+                <button id="gen" onclick="generator()">Generate!</button>
+            </div>
+        </div>
+        
+        <br>
+        <div id="msg"></div>
+    </section>
+    
+    <footer>
+        <a href="https://github.com/TomazMPP"><p>&copy; TomazMPP</p></a>
+    </footer>
+    
+    <script src="script.js"></script>
+</body>
+</html>
